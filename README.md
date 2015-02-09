@@ -1,16 +1,35 @@
 # GenomeAnalyzer
 Given the parents and the child. I want to measure the percentage of mutations in the SNPs(Single-nucleotide_polymorphism) genotypes. Then compare these mutated SNPs with SNPedia DB to identify risky mutations and % of mutation improvement.
 i.e:
-              SNP          Genotype
-Father        Rs7903146     CT
-Mother        Rs7903146     CT
-Child         Rs7903146     TT
 
-Rs7903146 = "TT" 
-Magnitude = 3.5
-Frecuency=10.6%
-Repute=Bad: 2x increased risk for Type-2 diabetes- 
-References=286
+<table>
+  <tr>
+    <td>Persona</td>
+    <td>SNP</td>		
+    <td>Genotype</td>
+  </tr>
+  <tr>
+    <td>Father</td>
+    <td>Rs7903146</td>		
+    <td>CT</td>
+  </tr>
+  <tr>
+    <td>Mother</td>
+    <td>Rs7903146</td>		
+    <td>CT<</td>
+  </tr>
+    <tr>
+    <td>Child</td>
+    <td>Rs7903146</td>		
+    <td>TT<</td>
+  </tr>
+</table>
+
+Rs7903146 = "TT" <br>
+Magnitude = 3.5<br>
+Frecuency=10.6%<br>
+Repute=Bad: 2x increased risk for Type-2 diabetes- <br>
+References=286<br>
 
 http://www.snpedia.com/index.php/Rs7903146
 
