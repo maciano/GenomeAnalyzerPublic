@@ -12,7 +12,7 @@ public class GenomeAnalyzer {
 		List<String> chromo_List = new ArrayList<String>();
 		initCharSet(chromo_List);
 		String chromo = "1";
-		
+
 		Persona gaston = new Persona("Gaston", GenomeRawDataReader.read("genome_child_Full_20150208054635.txt", chromo));
 		Persona angel = new Persona("Angel", GenomeRawDataReader.read("genome_father_Full_20140516214655.txt", chromo));
 			
