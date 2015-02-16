@@ -42,10 +42,10 @@ Execution Time:1114ms - Reading and comparing with BufferedReader 1 Chromosome.
 Input format (\t separated file):
 <table>
   <tr>
-    <p># rsid	chromosome	position	genotype
-rs12564807	1	734462	AG
-rs3131972	1	752721	GA
-rs148828841	1	760998	TC
-rs12124819	1	776546	AA
+    <p># rsid	chromosome	position	genotype<br>
+rs12564807	1	734462	AG<br>
+rs3131972	1	752721	GA<br>
+rs148828841	1	760998	TC<br>
+rs12124819	1	776546	AA<br>
 </p>
 
