@@ -40,10 +40,12 @@ Chromosome:1 0.72982454 simil
 Execution Time:1114ms - Reading and comparing with BufferedReader 1 Chromosome.
 
 Input format (\t separated file):
-# rsid	chromosome	position	genotype
+<table>
+  <tr>
+    <p># rsid	chromosome	position	genotype
 rs12564807	1	734462	AG
 rs3131972	1	752721	GA
 rs148828841	1	760998	TC
 rs12124819	1	776546	AA
-
+</p>
 
